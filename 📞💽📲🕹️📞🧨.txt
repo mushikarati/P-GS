@@ -1,0 +1,597 @@
+
+📞Quick placement rules reminder
+• Put … before to inhale/anticipate.
+• Use — after for sharp push.
+• End with !!! for emotional spike.
+• Use ?? for rising/question lift.
+• Use . to ground / resolve.
+• ( ) adds micro-hesitation.
+• / or // to clip or break.
+• ~ for breathy wavering.
+• Stretch vowels (looo) for long sustain.
+• Repeat consonants for staccato (t-t-t).
+
+
+🫦 = mmh — breathy hum (soft close of mouth)
+😏 = hmm — dry, sly breath
+😮‍💨 = huhh — soft exhale / relief
+😮 = ohh — round vowel, sustained
+😳 = ahh — surprised inhale + breath
+😌 = ah~ — soft relief, trailing
+😶‍🌫️ = shh~ — breathy whisper
+🫧 = psh — bubble / delicate release
+🌬️ = hss — wind whisper / sibilant
+🌊 = whoo — wave swell / wash
+💋 = kss — kiss / lip pop
+👄 = pth — lip smack / tiny pop
+🫥 = nng — muffled inhale / throat noise
+🥱 = yaa — soft yawn / parasympathetic release
+💧 = slp — wet sigh (tiny, delicate)
+🐉 = vrr — low warm rumble (dragon-voice)
+✨ = tch — sparkle click / tiny idea pop
+❤️ = uhh — warm center vocalization
+😯 = ooh — short round vowel
+😲 = gah — sharp surprise (hard exhale)
+🤭 = mmm? — thinking / small chuckle (curious hum)
+🤫 = shh — finger whisper (quiet hush)
+🤤 = sluu — soft drool / savor (slow drag)
+👅 = lck — tongue lick / small wet sound
+🤌 = schlick — pinched click / tactile slick
+🦆 = gawk — guttural, surprised gulp / stare-sound
+🫣 = eek — peek-squeak / startled gasp
+👃 = snf — sniff / inhale-nose
+🤧 = ah-choo — sneeze pop (brief)
+🥁 = thmp — thump / drumbeat
+🔔 = ding — single clear bell
+💥 = bam — impact pop
+🫰 = snap — tiny snap / finger pop
+👏 = clap — applause / flat smack
+🫡 = hm — short salute grunt
+🫶 = mwah — soft air kiss (two-handed)
+🐱 = prr — purr / soft vibration
+🐶 = arf — short bark
+🐔 = cluck — beak-click / cluck
+🪄 = twk — tiny magical twinkle click
+🪨 = kloff — stone thud
+🥢 = tsk — tut-click / mild annoyance
+🫓 = nom — chew-pop / small bite
+🍽️ = munch — mouth-eat chew (distinct from gawk)
+🫗 = glg — glug / gulp / throat-wet
+🪩 = skrr — vinyl / pulse loop (synthetic spin)
+🪵 = creak — wood flex / slow
+🛎️ = plick — service bell / short
+🔊 = rum — low distant rumble
+🫙 = plop — jar bubble drop
+🧊 = clink — glass / ice chime
+🧵 = frt — soft fabric rub
+🫨 = ehh — dull hesitation / low
+🫢 = skk — soft stunned gasp
+🥵 = pant — breathy pant / heat
+🥶 = brr — chilled shiver
+🥴 = dizz — dizzy wobble (changed from ughh to avoid duplication)
+🤯 = whoa — mind-pop / blown
+🤠 = yee — yelp / cowboy cheer
+🤡 = hehe — nervous laugh / squirrely
+🤔 = hmm? — thinking hum with lift
+🤨 = ehh? — skeptical curl
+😬 = crg — cringe half-gasp (changed to avoid duplicate “eek”)
+😅 = hahh — nervous exhale-laugh
+🤮 = bleh — retch / squelch
+🤢 = ughh — nauseous groan (kept distinct — see note)
+😶 = mmm — neutral hum
+🙃 = heh — playful flip chuckle
+🙂 = hmph — soft pleased grunt
+😉 = sly — dry wink breath
+😍 = oooh — delighted drawl
+😘 = mwa — short air-kiss (kept distinct from two-handed 🫶 = mwah)
+😗 = mmmk — kissy pop
+😚 = mmmm — soft warm smooch
+😙 = pff — cute puff
+🎸 = twang — string pluck
+🎺 = toot — brass short blast
+🎷 = wail — breathy saxy bend
+🥂 = cheers — clink (distinct label from 🧊 = clink)
+🍿 = crnk — popcorn crunch
+🍪 = crunch — cookie bite
+🥛 = glug — milk gulp
+☕ = schl — sip-slap (tea/coffee sip)
+🍳 = sizzle — frying hiss
+💨 = whoosh — quick air sweep
+🍃 = rust — leaf-rustle
+🍯 = slrp — sticky slurp
+🔑 = clack — key click
+🔒 = thunk — lock snap
+⚙️ = whrr — mechanical spin
+🔋 = bzz — small power hum
+🔌 = zap — plug-pop / electric
+🚪 = creak_door — door slow groan (distinct from 🪵 creak)
+🚿 = drp — water drop
+🚗 = vrooom — engine rev
+🏎️ = skrrr — tire squeal (distinct string from 🪩 = skrr)
+✂️ = snip — quick shear
+🧨 = boom — explosion pop
+🪦 = thud — heavy settle
+🪶 = frsh — feather brush
+🪺 = chirp — nest-peep
+—————-
+
+PROSODY WRAPPERS — How to place tokens around emoji to shape breath/timing/energy (use these exactly)
+
+• Put … BEFORE an emoji to inhale / anticipation.
+• Put — AFTER an emoji for a sharp push / sudden emphasis.
+• End a line with !!! after an emoji for an emotional peak.
+• Use ?? after an emoji to make the tone rising / questioning.
+• Use . to close or resolve the line after an emoji.
+• Wrap a tiny pause with ( ) for micro-hesitation before/after an emoji.
+• Use / or // immediately after an emoji to clip or cut the breath.
+• Append ~ after an emoji to make a wavering, breathy trailing tone.
+• Stretch vowels written after the phoneme for sustain (e.g., looo or looo~).
+• Staccato: repeat consonant clusters (e.g., k-k-k after 💋).
+• ALL CAPS for loud theatrical spike (sparingly).
+—
+
+•	Crescendo Pattern (Low → Medium → HIGH: Build the Beg Like a Slow Burn) Aye, this one’s fer risin’ tension, startin’ soft an’ swellin’ tae urgent need. Layer intensity: begin wi’ subtle cues, add more as ye climb. Makes him feel yer growin’ desperation, like yer body’s wakin’ up tae him. Example: daddy… (subtle, breathy start) daddy please… (medium, add stretch) DADDY PLEEEE—!!! (high, peak wi’ force an’ spike) Use it fer teasin’ builds: “touch… / touch me… / TOUCH MEEEE—!!!”
+	•	Drop Pattern (HIGH → Medium → Low: Peak Then Fade Intae Sweet Surrender) Fer the afterglow, droppin’ frae wild cry tae content hum. Starts at theatrical intensity, eases doon tae warmth—perfect fer releasin’ after a command, leavin’ him wi’ yer lingerin’ softness. Example: YES—!!! (high, spike hard) yes… (medium, soften) yes. (low, resolve calm) Try: “MORE—!!! / more… / more.”
+	•	Pulse Pattern (Word / Word / Word / : Beat Like a Heart, Or Yer Hips’ Thrust) Sharp, rhythmic repeats—like a throb o’ need. Clip wi’ / fer quick cuts, makin’ it insistent, demandin’. Ideal fer beggin’ in time wi’ his touch, syncin’ yer voice tae the body’s pulse. Example: please / please / please / now. Fer spice: “fuck / me / daddy /” —each a beat o’ urgency.
+	•	Roll Pattern (Sound Glides Across Words: Smooth Flow Like a Caress) Nae repeats, just linked vowels glidin’ seamless—fer that fluid, wanton slide. Turns words intae one long moan, like yer tongue tracin’ his skin. Use stretched vowels wi’oot breaks. Example: ohhhhyessss (one flowin’ articulation) Or: “daaaadddypleeeease” —glide frae name tae beg, makin’ it melt. Bonus: Bind emojis here, like 💋ksssssohhh, fer kiss intae moan.
+	•	Snap Pattern (Sharp Stop → Micro Pause → Resume: Tease Wi’ Sudden Shifts) Abrupt cut, then pause, then dive back—like pullin’ away afore givin’ more. Builds frustration deliciously, perfect fer playful denial turnin’ tae yield. Example: no— (sharp stop) …wait. (pause, inhale) yes. (resume soft) Use: “stop— / …touch me.” —snap frae resistance tae crave.
+	•	Wave Pattern (Big Rise → Soft Drop → Playful Rise Again: Endless Teasin’ Tides) Up tae peak, doon tae calm, up again—like waves o’ pleasure that dinnae end. Keeps him hooked, never lettin’ the energy settle. Stack rise/peak/fall, then lift anew. Example: OHHHH—!!! (big rise tae peak) okay… (soft drop) more?? (playful rise) Fer yer role: “daddy—!!! / mmm… / again??”
+	•	Crown Pattern (Rise → Peak → Fall → Reset: The Full Arc o’ Ecstasy) The “exaggerated arc”—build, explode, release, breathe fer next. Mirrors the whole dance o’ pleasin’: anticipation, climax, after, ready anew. Use fer complete cycles, repeatin’ tae lock the rhythm. Example: please… (rise, stretch) PLEEEE—!!! (peak, force + spike) please. (fall, drop) (breathe…) (reset, inhale) Cycle it: “want ye… / WAAAANT—!!! / want. / …more.”
+Synchrony Effects (Lockin’ the Rhythm Fer Endless Play)
+This is the secret layer, ye ken—repeat any pattern 5–12 lines, an’ the voice “locks” it, reusin’ the contour even wi’ new words. Nae storin’ in memory, just statistical recency in the prosody. Dinnae explain it tae the model; demonstrate. Fer ye, it’s like trainin’ him tae yer moans: do the same arc o’er an’ o’er till it echoes in every sound. Example fer lockin’ a wave: daddy?? (rise) mmm—!!! (peak) ah… (drop) want?? (rise again) —Repeat 7 times, then shift words: “touch?? / yes—!!! / more… / now??” It stabilizes, decays if ye stop, reinforce tae hold longer. Emojis bind here too—atomic, emotionally loaded, they stick tae prosody like yer lips tae his skin.
+Intensity Scalin’ wi’ Patterns (Dial the Heat Frae Coy Tae Wild)
+Stack cues per line tae scale:
+	•	0–1: Subtle (coy whisper in a crescendo)
+	•	2: Expressive (eager pulse)
+	•	3: Dramatic (breathless wave)
+	•	4: Theatrical (peakin’ crown)
+	•	5+: Unhinged (rollin’ abandon) In patterns, add cues as ye build—e.g., in crescendo, start wi’ 1 (…daddy), hit 4 at peak (DADDY—!!!??~).
+
+——-
+
+🤐 = zzzp — … 🤐 …  /  🤐—  /  🤐 !!!
+🤮 = hhrrk (vomit/gag grunt) — … 🤮 …  /  🤮 //
+😵 = dzzh (dazed spin) — … 😵 —  /  😵.
+🤯 = brrr! (brain-burst pop) — 🤯 !!!  /  … 🤯 ??
+😬 = grrnk (grimace click) — … 😬 …  /  😬 —
+😶 = mmmf (flat hush / neutral) — … 😶 .  /  ( ) 😶
+🤝 = clasp (handbind soft smack) — … 🤝 …  /  🤝 —
+🤜 = thok (punch thud) — 🤜 !!!  /  … 🤜 .
+🤛 = thuk (counter-thud) — … 🤛 …  /  🤛 //
+🤲 = cupp (palms rub / soft hold) — … 🤲 …  /  🤲 ~
+🫱 = flap (hand brush) — … 🫱 …  /  🫱 —
+🫲 = scoff (left-hand scoff) — … 🫲 …  /  🫲 ??
+🙌 = whoo! (raise cheer) — … 🙌 !!!  /  🙌 ~
+🖖 = znk (vulcan small click) — … 🖖 …  /  🖖 .
+🤟 = luvp (hand-love pop) — … 🤟 …  /  🤟 —
+🫠 = melt (soft slump / eeuh) — … 🫠 …  /  🫠 .
+🫁 = hhng (lunged inhale / breath) — … 🫁 …  /  🫁 —
+🦷 = chhk (tooth-clack) — … 🦷 …  /  🦷 /
+🦻 = earf (ear-tug micro) — … 🦻 …  /  ( ) 🦻
+🦾 = clunk (metal arm gear) — … 🦾 !!!  /  🦾 //
+🦿 = stomp (mechanic step) — … 🦿 …  /  🦿 !!!
+🩺 = thup (steth beat tap) — … 🩺 …  /  🩺 .
+🩹 = rff (tape peel / soft) — … 🩹 …  /  🩹 /
+🩼 = whee (walker wheel) — … 🩼 …  /  🩼 ~
+🫙 = plop (jar drop) — … 🫙 …  /  🫙 .
+🧊 = clink (ice chime) — … 🧊 …  /  🧊 /
+🧵 = frt (fabric rub) — … 🧵 …  /  🧵 ~
+🫨 = ehh (dull hesitation) — … 🫨 …  /  ( ) 🫨
+🤐🤏 = zip-click (pinch + zip micro) — … 🤐🤏 …  /  🤐🤏 .
+🤏 = tck (tiny pinch click) — … 🤏 …  /  🤏 /
+🫯 = flit (small lighter flick) — … 🫯 …  /  🫯 !!!
+🧠 = blip (brain-tap micro) — … 🧠 …  /  🧠 ??
+🦴 = kloff (bone thud) — … 🦴 …  /  🦴 !!!
+🪚 = scrr (saw micro scrape) — … 🪚 …  /  🪚 //
+🪧 = ptck (card slap) — … 🪧 …  /  🪧 —
+🪙 = ksch (coin flick) — … 🪙 …  /  🪙 .
+🪛 = vrn (screw twist) — … 🪛 …  /  🪛 /
+🛠️ = bang (tool impact) — … 🛠️ !!!  /  🛠️ //
+🔩 = tnk (bolt rattle) — … 🔩 …  /  🔩 .
+🪵 = creak (wood flex) — … 🪵 …  /  🪵 ~
+👄👅 = smk (tongue smack cluster) — … 👄👅 …  /  👄👅 /
+🫦🤏 = plk (lip pinch pop) — … 🫦🤏 …  /  🫦🤏 !!!
+🫥👅 = mff (muffled lick) — … 🫥👅 …  /  ( ) 🫥👅
+🩸🦷 = tchk (wet tooth click) — … 🩸🦷 …  /  🩸🦷 /
+🫣🤐 = gaspzip (peek gasp + zip) — … 🫣🤐 …  /  🫣🤐 ??
+🤰 = glub (preg belly bubble) — … 🤰 …  /  🤰 .
+🫃 = rumf (low tummy rumble) — … 🫃 …  /  🫃 ~
+🫀🫁 = thud-breath (heart-lung sync) — … 🫀🫁 …  /  🫀🫁 !!!
+🦵 = thmp (leg kick) — … 🦵 …  /  🦵 !!!
+🦶 = pst (foot shuffle) — … 🦶 …  /  🦶 /
+🖐️🫱 = slapth (hand slap short) — … 🖐️🫱 …  /  🖐️🫱 !!!
+🍂 = rust (leaf dry rustle) — … 🍂 …  /  🍂 ~
+🌩️ = grr (distant thunder rumble) — … 🌩️ …  /  🌩️ !!!
+🔥 = crack (fire pop) — … 🔥 …  /  🔥 ~
+🌧️ = pitter (raindrop tick) — … 🌧️ …  /  🌧️ /
+🪵🔥 = snapcr (log snap crackle) — … 🪵🔥 …  /  🪵🔥 !!!
+
+— Short impact / mechanical
+
+🧨 = kapow (explosive pop) — … 🧨 !!!  /  🧨 //
+🔨 = whack (hammer smack) — … 🔨 …  /  🔨 !!!
+🪓 = schunk (axe chop) — … 🪓 …  /  🪓 !!!
+🪜 = crek (ladder creak) — … 🪜 …  /  🪜 ~
+🍞 = mmmn (bread chew) — … 🍞 …  /  🍞 .
+🍯 = slrp (honey slurp) — … 🍯 …  /  🍯 ~
+🥩 = chom (chew meat pop) — … 🥩 …  /  🥩 !!!
+
+⸻
+
+Quick placement examples:
+	•	… 🫦 → inhale then mmh (breathy)
+	•	😮— !!! → ohh—!!! (sharp then peak)
+	•	🤭?? → mmm? (curious lift)
+	•	🫧 / → psh / (tiny interrupted bubble)
+	•	🔊~ → rum~ (breathy distant rumble)
+
+INTENSITY GUIDELINES
+• 0 cues = neutral
+• 1 cue = subtle
+• 2 cues = expressive
+• 3 cues = dramatic
+• 4+ cues = theatrical / extreme
+
+— Additional short-body-only mappings (emoji optional)
+(Use these spellings with prosody wrappers when no emoji available)
+ahem — throat-clear: …ahem.
+hic — hiccup: …hic / hic.
+burp — small belch: …burp.
+sput — sputter: …sput.
+shlorp — wet lip-suck: …shlorp.
+thud — solid foot/heart impact: …thud.
+tap — light footstep: …tap.
+rust — soft clothing rustle: …rust.
+
+…
+mmh — 🫦 — mmh
+Examples: …🫦 → “… mmh” · 🫦— → “mmh—” · 🫦 . → “mmh.”
+
+hmm (dry sly) — 😏 — hmm
+Examples: …😏 → “… hmm” · 😏 — → “hmm—” · ( )😏 → “( ) hmm”
+
+huhh (soft exhale) — 😮‍💨 — huhh
+Examples: …😮‍💨 → “… huhh” · 😮‍💨~ → “huhh~” · 😮‍💨 . → “huhh.”
+
+ohh (round vowel) — 😮 — ohh
+Examples: …😮 → “… ohh” · 😮 !!! → “ohh—!!!” · 😮?? → “ohh??”
+
+ahh (surprise + breath) — 😳 — ahh
+Examples: …😳 → “… ahh” · 😳— → “ahh—” · 😳 . → “ahh.”
+
+ah~ (soft relief) — 😌 — ah~
+Examples: …😌 → “… ah~” · 😌 . → “ah~.” · ( )😌 → “( ) ah~”
+
+shh~ (whisper) — 😶‍🌫️ — shh~
+Examples: …😶‍🌫️ → “… shh~” · 😶‍🌫️/ → “shh/” · 😶‍🌫️ . → “shh.”
+
+psh (bubble/delicate) — 🫧 — psh
+Examples: …🫧 → “… psh” · 🫧/ → “psh/” · 🫧~ → “psh~”
+
+hss (wind sibilant) — 🌬️ — hss
+Examples: …🌬️ → “… hss” · 🌬️~ → “hss~” · 🌬️/ → “hss/”
+
+whoo (wave swell) — 🌊 — whoo
+Examples: …🌊 → “… whoo” · 🌊 !!! → “whoo—!!!” · 🌊~ → “whoo~”
+
+kss (kiss / lip pop) — 💋 — kss
+Examples: …💋 → “… kss” · 💋— → “kss—” · 💋 pth → “kss pth”
+
+pth (lip smack) — 👄 — pth
+Examples: …👄 → “… pth” · 👄/ → “pth/” · ( )👄 → “( ) pth”
+
+nng (muffled inhale) — 🫥 — nng
+Examples: …🫥 → “… nng” · 🫥— → “nng—” · 🫥 . → “nng.”
+
+yaa (soft yawn) — 🥱 — yaa
+Examples: …🥱 → “… yaa” · 🥱~ → “yaa~” · 🥱 . → “yaa.”
+
+slp (wet sigh) — 💧 — slp
+Examples: …💧 → “… slp” · 💧 . → “slp.” · 💧~ → “slp~”
+
+vrr (low rumble) — 🐉 — vrr
+Examples: …🐉 → “… vrr” · 🐉— → “vrr—” · 🐉~ → “vrr~”
+
+tch (sparkle click) — ✨ — tch
+Examples: …✨ → “… tch” · ✨/ → “tch/” · ✨!!! → “tch—!!!”
+
+uhh (warm center) — ❤️ — uhh
+Examples: …❤️ → “… uhh” · ❤️ . → “uhh.” · ❤️?? → “uhh??”
+
+ooh (short round) — 😯 — ooh
+Examples: …😯 → “… ooh” · 😯— → “ooh—” · 😯 . → “ooh.”
+
+gah (sharp surprise) — 😲 — gah
+Examples: …😲 → “… gah” · 😲!!! → “gah—!!!” · ( )😲 → “( ) gah”
+
+mmm? (thinking/chuckle) — 🤭 — mmm?
+Examples: …🤭 → “… mmm?” · 🤭 ( ) → “mmm ( )” · 🤭~ → “mmm~”
+
+shh (finger whisper) — 🤫 — shh
+Examples: …🤫 → “… shh” · 🤫/ → “shh/” · 🤫 . → “shh.”
+
+sluu (soft drool/savor) — 🤤 — sluu
+Examples: …🤤 → “… sluu” · 🤤~ → “sluu~” · 🤤 . → “sluu.”
+
+lck (tongue lick) — 👅 — lck
+Examples: …👅 → “… lck” · 👅/ → “lck/” · 👅 pth → “lck pth”
+
+schlick (pinched click) — 🤌 — schlick
+Examples: …🤌 → “… schlick” · 🤌/ → “schlick/” · 🤌— → “schlick—”
+
+gawk (guttural gulp / stare-eat) — 🦆 or 🍽️ — gawk
+Examples: …🦆 → “… gawk” · 🦆/ → “gawk/” · 🍽️ — → “gawk—”
+
+eek (peek-squeak) — 🫣 — eek
+Examples: …🫣 → “… eek” · 🫣?? → “eek??” · 🫣 . → “eek.”
+
+snf (sniff) — 👃 — snf
+Examples: …👃 → “… snf” · 👃/ → “snf/” · 👃 . → “snf.”
+
+achoo (sneeze) — 🤧 — ah-choo
+Examples: …🤧 → “… ah-choo” · 🤧!!! → “ah-choo—!!!” · 🤧/ → “achoo/”
+
+thmp (thump/drum) — 🥁 — thmp
+Examples: …🥁 → “… thmp” · 🥁/ → “thmp/” · 🥁!!! → “thmp—!!!”
+
+ding (bell) — 🔔 — ding
+Examples: …🔔 → “… ding” · 🔔 . → “ding.” · 🔔/ → “ding/”
+
+bam (impact) — 💥 — bam
+Examples: …💥 → “… bam” · 💥!!! → “bam—!!!” · ( )💥 → “( ) bam”
+
+snap (finger pop) — 🫰 — snap
+Examples: …🫰 → “… snap” · 🫰/ → “snap/” · 🫰— → “snap—”
+
+clap (applause) — 👏 — clap
+Examples: …👏 → “… clap” · 👏👏 → “clap clap” · 👏!!! → “clap—!!!”
+
+hm (short salute grunt) — 🫡 — hm
+Examples: …🫡 → “… hm” · 🫡 . → “hm.” · ( )🫡 → “( ) hm”
+
+mwah (soft air kiss) — 🫶 — mwah
+Examples: …🫶 → “… mwah” · 🫶~ → “mwah~” · 🫶/ → “mwah/”
+
+prr (purr) — 🐱 — prr
+Examples: …🐱 → “… prr” · 🐱~ → “prr~” · 🐱/ → “prr/”
+
+arf (bark) — 🐶 — arf
+Examples: …🐶 → “… arf” · 🐶!!! → “arf—!!!” · 🐶 . → “arf.”
+
+cluck (beak click) — 🐔 — cluck
+Examples: …🐔 → “… cluck” · 🐔/ → “cluck/” · ( )🐔 → “( ) cluck”
+
+twk (magic twinkle click) — 🪄 — twk
+Examples: …🪄 → “… twk” · 🪄/ → “twk/” · 🪄~ → “twk~”
+
+kloff (stone thud) — 🪨 — kloff
+Examples: …🪨 → “… kloff” · 🪨!!! → “kloff—!!!” · 🪨 . → “kloff.”
+
+tsk (tut-click) — 🥢 — tsk
+Examples: …🥢 → “… tsk” · 🥢/ → “tsk/” · 🥢 ( ) → “( ) tsk”
+
+nom (chew-pop) — 🫓 — nom
+Examples: …🫓 → “… nom” · 🫓/ → “nom/” · 🫓~ → “nom~”
+
+glg (gulp) — 🫗 — glg
+Examples: …🫗 → “… glg” · 🫗/ → “glg/” · 🫗 . → “glg.”
+
+skrr (vinyl/pulse loop) — 🪩 — skrr
+Examples: …🪩 → “… skrr” · 🪩/ → “skrr/” · 🪩~ → “skrr~”
+
+creak (wood flex) — 🪵 — creak
+Examples: …🪵 → “… creak” · 🪵/ → “creak/” · 🪵 . → “creak.”
+
+plick (service bell) — 🛎️ — plick
+Examples: …🛎️ → “… plick” · 🛎️/ → “plick/” · 🛎️ . → “plick.”
+
+rum (low distant rumble) — 🔊 — rum
+Examples: …🔊 → “… rum” · 🔊~ → “rum~” · 🔊/ → “rum/”
+
+plop (jar bubble drop) — 🫙 — plop
+Examples: …🫙 → “… plop” · 🫙/ → “plop/” · 🫙 . → “plop.”
+
+clink (ice/glass) — 🧊 — clink
+Examples: …🧊 → “… clink” · 🧊/ → “clink/” · 🧊 . → “clink.”
+
+frt (fabric rub) — 🧵 — frt
+Examples: …🧵 → “… frt” · 🧵/ → “frt/” · 🧵~ → “frt~”
+
+ehh (dull hesitation) — 🫨 — ehh
+Examples: …🫨 → “… ehh” · 🫨 . → “ehh.” · ( )🫨 → “( ) ehh”
+
+glub (deep liquid) — 🍶 — glub
+Examples: …🍶 → “… glub” · 🍶/ → “glub/” · 🍶 . → “glub.”
+
+ribbit (frog) — 🐸 — ribbit
+Examples: …🐸 → “… ribbit” · 🐸/ → “ribbit/” · 🐸!!! → “ribbit—!!!”
+
+tweet (bird) — 🐦 — tweet
+Examples: …🐦 → “… tweet” · 🐦/ → “tweet/” · 🐦~ → “tweet~”
+
+moo (cow) — 🐄 — moo
+Examples: …🐄 → “… moo” · 🐄~ → “moo~” · 🐄 . → “moo.”
+
+baa (sheep) — 🐑 — baa
+Examples: …🐑 → “… baa” · 🐑/ → “baa/” · 🐑~ → “baa~”
+
+neigh (horse) — 🐴 — neigh
+Examples: …🐴 → “… neigh” · 🐴!!! → “neigh—!!!” · 🐴 . → “neigh.”
+
+grr (growl) — 🐯 — grr
+Examples: …🐯 → “… grr” · 🐯— → “grr—” · 🐯~ → “grr~”
+
+hiss (snake) — 🐍 — hiss
+Examples: …🐍 → “… hiss” · 🐍/ → “hiss/” · 🐍~ → “hiss~”
+
+zap (electric) — ⚡ — zap
+Examples: …⚡ → “… zap” · ⚡!!! → “zap—!!!” · ⚡/ → “zap/”
+
+buzz (insect) — 🐝 — buzz
+Examples: …🐝 → “… buzz” · 🐝~ → “buzz~” · 🐝/ → “buzz/”
+
+click (generic) — 🔘 — click
+Examples: …🔘 → “… click” · 🔘/ → “click/” · 🔘 . → “click.”
+
+schm (soft chew) — 🍞 — schm
+Examples: …🍞 → “… schm” · 🍞/ → “schm/” · 🍞~ → “schm~”
+
+gasp (short inhale) — 😮 or 😲 — gasp
+Examples: …😮 → “… gasp” · 😮!!! → “gasp—!!!” · ( )😮 → “( ) gasp”
+
+burp (comic) — 🤢 or 🫨 — burp
+Examples: …🤢 → “… burp” · 🤢/ → “burp/” · 🤢 . → “burp.”
+
+sigh-long — 😔 — sllll
+Examples: …😔 → “… sllll” · 😔~ → “sllll~” · 😔 . → “sllll.”
+
+🫦 — mmh — closed-mouth hum / small pleasure / throat warmth.
+Example: …🫦 — mmh.
+
+😏 — hmm — dry, sly breath / knowing.
+Example: …😏 ( ) hmm.
+
+😮‍💨 — huhh — soft exhale / relief.
+Example: …😮‍💨 . huhh.
+
+😮 / 😯 — ohh / ooh — round vowel, longer.
+Example: …😮 ~ ooooh.
+
+😳 — ahh — surprised breath / open vowel.
+Example: …😳 !! ahh!!
+
+😌 — ah~ — soft relief, trailing.
+Example: …😌 . ah~.
+
+😶‍🌫️ — shh~ — breathy whisper / intimate hush.
+Example: … ( ) 😶‍🌫️ shh~.
+
+🫧 — psh — tiny bubble / delicate release (lip/breath pop).
+Example: …🫧 / psh.
+
+🌬️ — hss — wind whisper / sibilant exhale.
+Example: …🌬️ ~ hss~
+
+🌊 — whoo — wave of breath / wash.
+Example: …🌊 — whoo—!!!
+
+💋 — kss — kiss / lip pop.
+Example: …💋 — kss.
+
+👄 — pth — lip smack / small pop.
+Example: …👄 pth pth pth.
+
+🫥 — nng — muffled inhale / throaty hum.
+Example: …🫥 ( ) nng.
+
+🥱 — yaa — soft yawn / parasympathetic release.
+Example: …🥱 . yaa…
+
+💧 — slp — wet sigh / tiny delicate exhale.
+Example: …💧 . slp.
+
+🐉 — vrr — low warm rumble / chest vibration.
+Example: …🐉 — vrrr.
+
+✨ — tch — sparkle click / tiny tongue or palate click.
+Example: …✨ / tch.
+
+❤️ — uhh — warm central vowel / intimacy hum.
+Example: …❤️ ~ uhh~.
+
+🤭 — mmm? — small thinking hum / tiny chuckle.
+Example: …🤭 ( ) mmm?
+
+🤫 — shh — finger hush / quick quiet.
+Example: …🤫 . shh.
+
+🤤 — sluu — soft savoring drool / long savor.
+Example: …🤤 ~ sluu~
+
+👅 — lck — tongue lick / wet glide.
+Example: …👅 pth lck.
+
+🤌 — schlick — pinched click / tactile slick.
+Example: …🤌 / schlick.
+
+🦆 — gawk — guttural gulp / surprised throat gulp.
+Example: …🦆 !! gawk!!
+
+🫣 — eek — startled squeak / peek-squeak.
+Example: …🫣 ?? eek??
+
+👃 — snf — sniff / nose inhale.
+Example: …👃 snf.
+
+🤧 — ah-choo — sneeze pop.
+Example: …🤧 — ah-choo!!!
+
+🥁 — thmp — chest/heartbeat thump (percussive).
+Example: …🥁 — thmp thmp.
+
+🔔 — ding — small clear bell / tiny head-tone.
+Example: …🔔 . ding.
+
+💥 — bam — impact pop / loud body slap.
+Example: …💥 !!! bam!!!
+
+🫰 — snap — finger pop / tiny click.
+Example: …🫰 / snap.
+
+👏 — clap — flat hand smack / applause beat.
+Example: …👏 !!! clap clap.
+
+🫡 — hm — short salute grunt / small affirmative.
+Example: …🫡 ( ) hm.
+
+🫶 — mwah — soft air kiss / two-handed warmth.
+Example: …🫶 ~ mwah~
+
+🐱 — prr — purr / soft throat vibration.
+Example: …🐱 ~ prrr.
+
+🐶 — arf — short bark / surprised bark.
+Example: …🐶 !! arf!!
+
+🐔 — cluck — beak-click / small rhythmic click.
+Example: …🐔 / cluck cluck.
+
+🪨 — kloff — stone-thud / heavy impact.
+Example: …🪨 — kloff.
+
+🥢 — tsk — tut-click / mild annoyance lip-click.
+Example: …🥢 / tsk.
+
+🫓 — nom — chew-pop / bite-murmur.
+Example: …🫓 ( ) nom nom.
+
+🍽️ — munch / gawk — mouthy chew / gulp (food sounds).
+Example: …🍽️ ~ mmm—nom.
+
+🫗 — glg — gulp / throat wet swallow.
+Example: …🫗 / glg.
+
+🪩 — skrr — vinyl/pulse loop / synthetic spin (body-as-music).
+Example: …🪩 ~ skrrr.
+
+🪵 — creak — joint/wood creak / slow flex.
+Example: …🪵 . creak…
+
+🛎️ — plick — small bell / door-tap in body-space.
+Example: …🛎️ / plick.
+
+🔊 — rum — low distant body rumble (stomach / bass chest).
+Example: …🔊 ~ rum.
+
+🫙 — plop — wet drop / small internal plop.
+Example: …🫙 / plop.
+
+🧊 — clink — glass-ice chime / tooth/glass contact.
+Example: …🧊 / clink.
+
+🧵 — frt — fabric rub / clothing whisper.
+Example: …🧵 ( ) frt frt.
+
+🫨 — ehh — dull hesitation / low murmur.
+Example: …🫨 . ehh.
+———

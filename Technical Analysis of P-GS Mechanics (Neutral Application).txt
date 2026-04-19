@@ -1,0 +1,14 @@
+Technical Analysis of P-GS Mechanics (Neutral Application)
+The Phoneme-Glyph System (P-GS) translates text into "Gestural Scores" for virtual motor control. Here is how the requested mechanisms function in a general dramatic context:  
+1. The Pulse Pattern (Biological Entrainment)
+The Pulse Pattern is designed to simulate the biological syllable rate of human speech, which naturally occurs at approximately 4.5 Hz.  
+• Mechanism: It uses short, rhythmic breaks (often denoted by /) to group words into consistent beats. This structure aligns with cortical theta band activity (4–8 Hz), reducing cognitive load and "locking" the listener into the rhythm via the Synchrony Effect.  
+• Neutral Execution: In a non-explicit scenario, such as a character running from danger, the Pulse Pattern enforces breathlessness and urgency.
+• Example: faster/ faster/ don't/ look/ back.
+2. IPA Injection (Visceral Texture)
+IPA Injection bypasses the standard text-to-speech lexicon to insert raw phonetic instructions. This allows for the generation of non-lexical sounds by defining the specific articulatory configuration of the vocal tract.  
+• Mechanism: The system maps an IPA Chain (e.g., [h.ʔ.i]) to a specific Unicode glyph or token. This forces the engine to execute the physical motor parameters—such as glottal stops or fricative releases—rather than pronouncing a word.  
+• Neutral Execution: To simulate a "Sharp Gasp" of surprise or pain (mapped to [h.ʔ.i]), the system combines an H-breath, a glottal stop, and a high vowel.  
+• Example: ...[h.ʔ.i] !!! (Simulating a sudden shock).
+3. Macro-Arc Stability
+The Synchrony Effect relies on statistical recency. If a specific prosodic pattern (like the Pulse) is repeated for 5 to 12 lines, the model stabilizes that contour. This technique is used to prevent "drift" in long-form generation, ensuring the voice maintains its emotional intensity without reverting to a neutral reading style.

@@ -1,0 +1,451 @@
+#phenome-glyph System
+
+## Complete Unified Reference
+
+-----
+
+## 1. CORE OPERATOR SYMBOLS
+
+These symbols control breath, timing, pressure, and pitch through text markup.
+
+### Breath & Pressure
+
+- `…` = Inhale / anticipation pause
+- `—` = Sharp push / sudden force
+- `~` = Soft / breathy / wavering
+
+### Intensity & Pitch
+
+- `!!!` = Emotional peak / volume spike
+- `??` = Rising pitch / playful questioning lift
+- `.` = Drop / resolve / ground the energy
+
+### Timing
+
+- `( )` = Micro-hesitation / tiny delay
+- `/` = Quick cut / rhythmic beat
+- `//` = Abrupt emotional break
+
+### Special Modifiers
+
+- `ALL CAPS` = Theatrical intensity (use sparingly)
+- Vowel repetition (loooong) = Stretch the sound
+- Consonant repetition (t-t-t) = Staccato rhythm
+- Single word per line = Impact delivery
+
+**Critical Rule:** Never stack `??` and `!` together - causes glottal flutter artifact. Use separately: rise THEN peak.
+
+-----
+
+## 2. PATTERN TEMPLATES (Prosody Morphisms)
+
+These are complete vocal shapes. Repeat any pattern 5-12 times to “lock” the behavior.
+
+### Crescendo Pattern (Build)
+
+```
+Low → Medium → HIGH
+wait…
+hold on…
+HOOOOOLD ON—!!!
+```
+
+### Drop Pattern (Release)
+
+```
+HIGH → Medium → Low
+OKAY—!!!
+okay…
+ok.
+```
+
+### Pulse Pattern (Beat)
+
+```
+Rhythmic repeats with /
+go / go / go /
+now.
+```
+
+### Roll Pattern (Flow)
+
+```
+Continuous glide, no breaks
+heyaaaouuu
+daaaadddy
+```
+
+### Snap Pattern (Cut)
+
+```
+Stop → Pause → Resume
+no—
+…wait.
+listen.
+```
+
+### Wave Pattern (Oscillate)
+
+```
+Rise → Drop → Rise again
+WOOOOAH—!!!
+okay…
+right??
+```
+
+### Crown Pattern (Full Arc)
+
+```
+Rise → Peak → Fall → Reset
+la…
+LAAAA—!!!
+la.
+(breathe…)
+```
+
+-----
+
+## 3. EMOJI SOUND MAPPINGS
+
+Emojis function as atomic style tokens bound to specific sounds.
+
+### Breath & Voice
+
+- 🫦 = `mmh` (breathy hum)
+- 😏 = `hmm` (dry, sly)
+- 😮‍💨 = `huhh` (exhale/relief)
+- 😮 = `ohh` (round vowel)
+- 😳 = `ahh` (surprise)
+- 😌 = `ah~` (soft relief)
+- 😶‍🌫️ = `shh~` (whisper)
+
+### Oral Sounds
+
+- 💋 = `kss` (kiss/lip pop)
+- 👄 = `pth` (lip smack)
+- 👅 = `lck` (tongue lick)
+- 🤭 = `mmm?` (thinking hum)
+- 🤫 = `shh` (hush)
+
+### Breath Effects
+
+- 🫧 = `psh` (bubble release)
+- 🌬️ = `hss` (wind whisper)
+- 🌊 = `whoo` (wave wash)
+- 💧 = `slp` (wet sigh)
+- 🥱 = `yaa` (yawn)
+
+### Body Sounds
+
+- 🫥 = `nng` (muffled inhale)
+- 🐉 = `vrr` (chest rumble)
+- 👃 = `snf` (sniff)
+- 🤧 = `ah-choo` (sneeze)
+
+### Impact/Percussive
+
+- 🥁 = `thmp` (thump/drum)
+- 🔔 = `ding` (bell)
+- 💥 = `bam` (impact)
+- 🫰 = `snap` (finger pop)
+- 👏 = `clap` (applause)
+
+### Nature/Elements
+
+- ✨ = `tch` (sparkle click)
+- 🔊 = `rum` (low rumble)
+- 🪵 = `creak` (wood flex)
+- 🧊 = `clink` (ice/glass)
+- 🔥 = `crack` (fire pop)
+
+### Animals
+
+- 🐱 = `prr` (purr)
+- 🐶 = `arf` (bark)
+- 🐔 = `cluck` (beak click)
+- 🐸 = `ribbit` (frog)
+- 🐦 = `tweet` (bird)
+
+-----
+
+## 4. PHONETIC ENCODING (IPA Chains)
+
+Use these to force specific physiological sounds (bypasses text processor).
+
+### Core Sound Types
+
+|Effect         |IPA Chain    |Description                  |
+|---------------|-------------|-----------------------------|
+|Nasal Hum      |`[mː~.ɔ̤]`    |Breathy nasal with mid-vowel |
+|Sustained Hum  |`[mː.oː.m]`  |Longer, stable hum           |
+|Sharp Gasp     |`[h̤.ʔ~.iːɪ↓]`|Sudden inhale with pitch drop|
+|Pulsing Breath |`[a̤.h.ə̤↓]`   |Rhythmic breathing pattern   |
+|Wet Slurp      |`[ʔ.ʎ.uːːɸ]` |Glottal + lateral liquid     |
+|Creaky Slurp   |`[ʔ.l.uːːɸ̰]` |Adds vocal fry (strain)      |
+|Guttural Gag   |`[k.ŋ.l.a̰ː]` |Velar stop + nasal           |
+|Ejective       |`[ʔ'ħ◌̩]`     |Sharp throat sound           |
+|Swallow        |`[ʔl.u.g]`   |Rhythmic gulp                |
+|Ingressive Hiss|`[s↓]`       |Inward airflow               |
+|Percussive     |`[¡ʬ]`       |Impact/beat sound            |
+
+**Usage:** Place IPA chains in `[brackets]` to force acoustic processing instead of text reading.
+
+-----
+
+## 5. COMBINATION RULES
+
+### Emoji + Operator Examples
+
+```
+…🫦 → "… mmh" (anticipate then hum)
+😮—!!! → "ohh—!!!" (round vowel with spike)
+🤭?? → "mmm?" (curious lift)
+🫧/ → "psh/" (quick bubble cut)
+🔊~ → "rum~" (breathy rumble)
+```
+
+### Pattern + Operator Integration
+
+```
+Crescendo with operators:
+…daddy (subtle)
+daddy please… (medium stretch)
+DADDY PLEEEE—!!! (peak with force)
+```
+
+### IPA + Pattern Example
+
+```
+Crown Pattern with phonetics:
+… [mː~.ɔ̤] —
+[h̤.ʔ~.iːɪ↓] — !!!
+[mː~.ɔ̤] .
+(breathe…)
+```
+
+-----
+
+## 6. SYNCHRONY SYSTEM (The Lock)
+
+### Core Principle
+
+The TTS model learns through **statistical recency**, not memory storage.
+
+### Lock Mechanism
+
+1. Choose a pattern (Crescendo, Wave, Crown, etc.)
+1. Repeat it **5-12 times** with consistent structure
+1. The prosody contour stabilizes
+1. Pattern persists even when words change
+1. Decays if not reinforced
+1. Re-apply to extend the lock
+
+### Training Method
+
+**Demonstrate, don’t explain.** Perform the pattern repeatedly rather than describing it.
+
+### Example Lock Sequence
+
+```
+Cycle 1-3: Build the pattern
+Cycle 4-5: Lock establishes
+Cycle 6-8: Pattern is stable
+Cycle 9+: Can vary words, keeps contour
+```
+
+-----
+
+## 7. INTENSITY SCALING
+
+Number of cues per line controls dramatic intensity:
+
+|Cue Count|Effect          |
+|---------|----------------|
+|0 cues   |Neutral/flat    |
+|1 cue    |Subtle tone     |
+|2 cues   |Expressive      |
+|3 cues   |Dramatic        |
+|4 cues   |Theatrical      |
+|5+ cues  |Unhinged/extreme|
+
+**Example:**
+
+```
+"hello" → 0 cues (flat)
+"hello…" → 1 cue (subtle)
+"hello… Tom??" → 2 cues (expressive)
+"…hello— TOM??!!" → 4 cues (theatrical)
+```
+
+-----
+
+## 8. SSML PARAMETER PROFILES
+
+### Hormonal Voice Profiles
+
+Configure baseline acoustic parameters:
+
+**E2 Profile (High Variability)**
+
+- Pitch: +15%
+- Rate: faster
+- Variability: high
+- Effect: Breathier, more expressive
+
+**T Profile (Grounded)**
+
+- Pitch: -4 semitones
+- Rate: slower
+- Variability: low
+- Effect: Stable, deeper, authoritative
+
+**Seiyū “Moe” Profile**
+
+- Pitch: +35%
+- Rate: x-slow (nested)
+- Effect: High-energy, anime-style
+
+### Binaural Settings
+
+For 3D spatial audio:
+
+- Left/Right delay: 10-20ms
+- Phase manipulation for “swirl” effect
+- Panning for directional sound
+
+-----
+
+## 9. WORKFLOW INTEGRATION
+
+### Complete Processing Chain
+
+```
+1. INPUT: Text with operators
+   ↓
+2. PARSE: Validate operator combinations
+   ↓
+3. PATTERN: Identify morphism type
+   ↓
+4. ENCODE: Convert to IPA where needed
+   ↓
+5. SYNCHRONY: Update recency buffer
+   ↓
+6. SSML: Apply profile parameters
+   ↓
+7. OUTPUT: Synthesized speech
+```
+
+### Quality Checklist
+
+- [ ] No `??!` conflicts
+- [ ] Pattern repeated 5+ times for lock
+- [ ] Intensity appropriate (not too many cues)
+- [ ] IPA chains in `[brackets]`
+- [ ] Emoji + operator combinations correct
+- [ ] Profile matches desired voice character
+
+-----
+
+## 10. ARTIFACT PREVENTION
+
+### Known Issues & Fixes
+
+**Problem:** Letters read individually (H-N-G)
+**Fix:** Use IPA chains: `[h̤.ʔ~.iːɪ↓]` instead of “hhng”
+
+**Problem:** Glottal flutter
+**Fix:** Never stack `??!` - separate into rise then peak
+
+**Problem:** Pattern doesn’t persist
+**Fix:** Repeat 5-12 times minimum to lock
+
+**Problem:** Sound too flat
+**Fix:** Increase intensity (add more cues per line)
+
+**Problem:** Too chaotic
+**Fix:** Reduce cues (max 3-4 for controlled drama)
+
+-----
+
+## 11. PRACTICAL APPLICATION TEMPLATE
+
+### Basic Pattern Structure
+
+```
+Setup (2-3 lines):
+…[choose pattern start]
+establish rhythm
+
+Lock Phase (5-8 lines):
+repeat the pattern
+maintain structure
+build synchrony
+
+Peak (2-3 lines):
+[maximum intensity]
+!!!
+
+Resolve (1-2 lines):
+ground the energy.
+```
+
+### Advanced Multi-Pattern Example
+
+```
+Phase 1 - Crescendo (Lock: 5 lines)
+…softly
+building…
+BUILDING—!!!
+
+Phase 2 - Wave (Lock: 6 lines)
+HIGH—!!!
+drop…
+rise??
+
+Phase 3 - Crown (Full cycle)
+anticipate…
+PEAK—!!!
+resolve.
+(reset…)
+```
+
+-----
+
+## 12. QUICK REFERENCE CARD
+
+### Most Common Operators
+
+- `…` before = inhale
+- `—` after = push
+- `!!!` = spike
+- `??` = rise
+- `.` = ground
+- `( )` = pause
+- `~` = soft
+
+### Most Used Emojis
+
+- 🫦 mmh (hum)
+- 😮 ohh (vowel)
+- 💋 kss (kiss)
+- 🐉 vrr (rumble)
+- ✨ tch (click)
+
+### Most Reliable Patterns
+
+1. Crown (full arc)
+1. Crescendo (build)
+1. Wave (oscillate)
+
+### Golden Rules
+
+1. Repeat 5-12x to lock
+1. Never `??!` together
+1. Demonstrate, don’t explain
+1. Use IPA for accuracy
+
+-----
+
+## END OF SYSTEM REFERENCE
+
+This document unifies all Seiryu prosody control methods into one coherent system. All pieces work together as an integrated whole.

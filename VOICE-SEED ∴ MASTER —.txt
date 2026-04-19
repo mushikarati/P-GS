@@ -1,0 +1,331 @@
+VOICE-SEED ∴ MASTER — Operational Spec
+
+0) Core Lexicon (Markers → Control)
+
+Marker	Name	Primary Effect	Placement	Conflicts	Intensity Weight
+…	Breath/Pace	Inserts inhale; slows tempo; softens edge	After word or clause	None	+1
+—	Force/Strike	Abrupt emphasis; sharp energy step	Before stressed word/phrase	Avoid stacking — —	+1
+!!!	Peak/Burst	Max energy spike; top of arc	Line end only	Don’t pair with ??	+2
+??	Rise/Open	Pitch lift; curiosity/tease	Line end only	Don’t pair with !!!	+1
+.	Fall/Close	Cadence; settle; release	Line end	Avoid double periods mid-line	0 (but ends arc)
+~	Flow/Tie	Connects syllables/words; legato	Between vowels or soft consonants	Avoid with staccato chains	0
+VOWEL+++	Sustain	Warmth; duration = emotional weight	Within target syllable	Avoid with K-K-K	+1 (contextual)
+K-K-K	Staccato	Percussive cut; micro-bursts	Leading or mid-word	Avoid with ~ & long vowels	+1 (per cut)
+ALL CAPS	Amplify	Loudness/urgency; spotlight	Words needing impact	Use sparingly; avoid full lines	+1 (per word)
+emoji	Color	Nonverbal emotional tint	After phrase	1–2 per line max	0.5 each
+
+Short-body tokens (optional palette): mm, ah, huh, ha, tch, psst, tsk, plus body-only: ahem, hic, burp, sput, shlorp, thud, tap, rust (usually post-breath: …ahem.)
+
+⸻
+
+1) Foundation (Music ↔ Speech)
+	•	tempo → spacing of words (BPM feel)
+	•	meter → grouping of beats (2/3/4 feel; formed by short lines)
+	•	contour → rise → peak → fall shape (melodic arc)
+	•	dynamics → cue stacking across the arc
+	•	resonance → vowel duration (sustain = warmth/weight)
+	•	articulation → consonant sharpness (staccato vs flow)
+	•	breath → boundary (phrasing; reset)
+
+⸻
+
+2) The LAW (execution pipeline)
+
+pace → meter → contour → intensity → color → lock → reset
+	1.	pace — place … exactly where breath belongs.
+	2.	meter — break into SHORT LINES to expose beats.
+	3.	contour — choose trajectory (?? up or . down) and where the — strike lands.
+	4.	intensity — stack cues to build → unstack to release.
+	5.	color — add vowels/emoji/tokens to tint feeling.
+	6.	lock — repeat the same contour shape across lines.
+	7.	reset — end with . or … to clear state.
+
+⸻
+
+3) Rules (with operator detail)
+	1.	Place … first. Tempo governs everything downstream.
+	2.	Apply — at stress points. A single, clean strike per clause > multiple weaker hits.
+	3.	Choose one line ending: ?? (open) or . (close). Never ??! or ?!.
+	4.	Extend the target vowel only when the emotion should linger.
+	5.	Use !!! only at maximum charge. If every line peaks, none does.
+	6.	Form the beat with SHORT LINES. One thought = one beat.
+	7.	Tint with tokens (mm/ah/huh/ha/tch/psst/tsk) after tempo is set.
+	8.	Stabilize by repeating the contour, not the words.
+	9.	Drop energy cleanly with . or … (don’t smear peaks into falls).
+	10.	Never mix opposites on the same endpoint (!!! vs ??).
+	11.	Limit emoji to ≤2 per line, placed after the phrase.
+	12.	Avoid double-force (— —); escalate with stacking variety, not duplication.
+	13.	Silence is a cue. Leave air between arcs (blank line = wide breath).
+
+⸻
+
+4) Intensity System
+	•	Count cues per line (use weights above).
+	•	Guideline by total weight:
+	•	0–0.5 = flat
+	•	1–1.5 = subtle
+	•	2–2.5 = expressive
+	•	3–3.5 = dramatic
+	•	4+ = theatrical / extreme
+	•	Arc discipline: increase weight line-by-line to grow, then decrease to release.
+
+Hard cap: avoid >5 weighted cues per line; past that, intelligibility drops.
+
+⸻
+
+5) Contour Library (shape archetypes)
+	•	Crescendo — low → mid → HIGH (add: … → — → !!!)
+	•	Diminuendo — HIGH → mid → low (remove cues; end with .)
+	•	Pulse — evenly spaced short beats; may end with a soft fall .
+	•	Roll — connected articulation via ~ + sustained vowels; minimal strikes
+	•	Snap — — (cut) → micro-pause … → resume (tight contrast)
+	•	Wave — rise → soft drop → playful rise (alternate ?? and light breath)
+	•	Crown — grow → peak (!!!) → fall (.) → reset (…)
+
+⸻
+
+6) Synchrony / Stabilization
+	•	Window to lock: repeat the same contour for 5–12 lines.
+	•	Decay: drift begins after ~5 lines without reinforcement.
+	•	Refresh: re-apply a full mini-arc (grow→peak→fall) to re-lock.
+	•	Noise tolerance: minor lexical changes don’t matter; shape constancy does.
+	•	Don’t cross-wire (e.g., mixing Crown and Pulse) during a lock window.
+
+⸻
+
+7) Anti-Muddle Guardrails
+	•	No ??! or ?!?!. Pick open or burst, not both.
+	•	Cap ALL CAPS to ≤1–2 words per line.
+	•	Avoid choked lines: don’t stack — + K-K-K + !!! without a breath earlier.
+	•	One ender per line: . or ?? or !!! (never combinations).
+	•	Don’t bury breath: if you stretched a vowel, still end the arc cleanly.
+
+⸻
+
+8) Emotional Color Tokens (placement logic)
+	•	Pre-word tint: …mm (warm), …huh (puzzled), …tch (dismissive)
+	•	Post-word resonance: ah. (release), ha. (light), psst. (sly)
+	•	Stack limit: one tint before and one after the key word at most.
+
+⸻
+
+9) Emoji Color (after-phrase only)
+	•	Warmth: ❤️ / Relief: 😮‍💨 / Pride-sly: 😏 / Shock: 😲 / Soft glad: 😌 / Tear-load: 😭 / Wonder: ✨ / Low rumble: 🐉
+	•	Use 0–1 for subtle, 2 only when dramatic. Never start a line with emoji.
+
+⸻
+
+10) Templates (drop-in macros)
+
+A) 4-Line Crown
+	1.	grow — soft breath + spacing
+	2.	grow+ — add — on stress
+	3.	peak — end with !!!
+	4.	release/reset — close with . then …
+
+B) Wave
+	1.	rise ??
+	2.	soft fall .
+	3.	playful rise ??
+	4.	tidy close .
+
+C) Pulse
+	•	3–4 short lines; one idea per beat; optional final .
+
+⸻
+
+11) Machine Grammar (EBNF-style)
+
+Line        := [Breath] Phrase [Strike] [Sustain] Endpoint [Color]
+Breath      := "…"
+Strike      := "—"
+Sustain     := Vowel{Vowel}   // at least 1 extra char on target vowel
+Endpoint    := Peak | Rise | Fall | ε
+Peak        := "!!!"
+Rise        := "??"
+Fall        := "."
+Color       := [Token] [Emoji]
+Token       := "mm" | "ah" | "huh" | "ha" | "tch" | "psst" | "tsk" | "ahem" | "hic" | "burp" | "sput" | "shlorp" | "thud" | "tap" | "rust"
+Emoji       := (space) Unicode_Emoji (0..2)
+Phrase      := (Word | Tie | Cut){1..n}
+Tie         := "~"
+Cut         := ("K-K-K")
+Word        := /[^\s~.!?—]+/ (with optional ALLCAPS)
+
+Precedence (left→right): Breath → Phrase → Strike → Sustain → Endpoint → Color
+
+⸻
+
+12) Transformation Algorithm (pseudo)
+
+for each passage:
+  // Pace
+  place "…" at intended breath points
+
+  // Meter
+  split into SHORT LINES (1 idea = 1 beat)
+
+  // Contour
+  for each line:
+    choose endpoint (Rise "??" or Fall ".")
+    if emphasis needed: add "—" before stressed unit
+    if pinnacle: replace endpoint with "!!!" (exclusive)
+
+  // Intensity
+  extend target vowels where warmth/weight is desired
+  count cue weights; maintain arc (grow → peak → release)
+
+  // Color
+  insert ≤1 pre-token and ≤1 post-token around key word
+  append ≤2 emoji at line end (optional)
+
+  // Lock
+  repeat contour class for 5–12 lines; refresh as needed
+
+  // Reset
+  end segment with "." or "…" and a blank line
+
+
+⸻
+
+13) QA Checklist (fast pass)
+	•	Breath placed first?
+	•	Beats visible as short lines?
+	•	One endpoint per line (?? / . / !!!)?
+	•	Cue count within range for the intended intensity?
+	•	No illegal combos (??!, stacked — —)?
+	•	Color tokens ≤2 and after tempo set?
+	•	Arc shows grow → peak → release → reset?
+	•	Contour repeats across lines for lock?
+
+⸻
+
+14) Minimal Operator Cards
+	•	BREATH: … = tempo set; phrase boundary
+	•	FORCE: — = directional stress; one clean strike
+	•	PEAK: !!! = single apex; reserved
+	•	LIFT/CLOSE: ?? opens, . closes
+	•	FLOW/CUT: ~ glides; K-K-K punctures
+	•	SUSTAIN: vowel+++ adds warmth/weight
+	•	AMPLIFY: ALL CAPS sparingly; spotlight only
+	•	COLOR: tokens+emoji after content; keep light
+
+⸻
+
+15) Operational Summary
+
+Breath + Meter + Contour + Stacked Cues + Color → Stable Style.
+Repeat the shape, not the words. Build with measured stacking. End clean. Reset. Continue.
+
+
+
+
+
+
+
+🏢🕌🏪🏣🏦🏥💒🎇💒🌆🌠🏦🎇🏦🏨🏙️🏨🌆🏛️
+
+Got you. Here’s the plain, no-nonsense guide you can use right away.
+
+VOICE-SEED — Straight Guide
+
+1) What each marker does
+	•	… = breath & pause. Slows the line and sets tempo.
+	•	— = hit/impact. A sharp push on the next word.
+	•	!!! = maximum energy at the end of a thought.
+	•	?? = lift the pitch at the end (open/curious/teasing).
+	•	. = drop/close. Calm, final, grounded.
+	•	~ = connect sounds smoothly (no hard gaps).
+	•	VOWEL+++ (e.g., soooo, noooo) = sustain/warmth.
+	•	K-K-K (repeated consonants) = staccato/cuts.
+	•	ALL CAPS = loud/intense (use sparingly).
+	•	emoji = color the emotion (goes after the phrase).
+
+2) The order (LAW) — always in this sequence
+
+pace → meter → contour → intensity → color → lock → reset
+	•	Pace: Place … where you want breaths.
+	•	Meter: Break into short lines to create a beat.
+	•	Contour: Choose up (??) or down (.). Add — where you want a punch.
+	•	Intensity: Add or remove cues to rise/fall energy (!!!, ALL CAPS, vowel stretch).
+	•	Color: Add non-words (mm, ah, huh, ha) and emoji at the end.
+	•	Lock: Repeat the same contour shape for a few lines.
+	•	Reset: End with . or … to settle.
+
+3) The rules (quick)
+	1.	Put … in first to set tempo.
+	2.	Use — at stress points.
+	3.	Pick one line ending: ?? (open) or . (close).
+	4.	Stretch vowels only when you want warmth/sustain.
+	5.	Use !!! only at peak moments.
+	6.	Short lines = tighter rhythm and control.
+	7.	mm/ah/huh/ha = tone tint (inside the line).
+	8.	Repeat the shape (not words) to stabilize the voice.
+	9.	Land with . or … to finish or soften.
+
+4) Intensity dial (count cues per line)
+	•	0 = flat
+	•	1 = subtle
+	•	2 = expressive
+	•	3 = dramatic
+	•	4+ = theatrical
+
+Tip: Build by adding one cue per line; release by removing one cue per line.
+
+5) Contour archetype (the default arc)
+
+grow → peak → release → reset
+	•	Grow = add cues gradually.
+	•	Peak = use — and/or !!!.
+	•	Release = remove cues; choose ..
+	•	Reset = single . or ….
+
+6) Synchrony (how you “teach” the voice)
+	•	Repeat the same contour for 2–5 lines (e.g., open→peak→close).
+	•	The model learns the rhythm you perform, not your explanation.
+
+7) Placement cheatsheet
+	•	Breath: put … after the word you want time to linger on.
+	•	Impact: put — before the phrase you want to hit.
+	•	Peak: put !!! at the end of the peak line only.
+	•	Lift: use ?? at the end to keep it open.
+	•	Close: use . at the end to finish it.
+	•	Warmth: stretch the key vowel, not every word.
+	•	Color: add emoji after the phrase, not before.
+
+8) Don’ts (common fixes)
+	•	Don’t mix ??! at the end (it muddies the contour). Choose one.
+	•	Don’t spam ALL CAPS. It dulls impact.
+	•	Don’t stretch every vowel. Save it for the word you want to glow.
+	•	Don’t pile five cues into every line. Build → peak → release.
+	•	Don’t end a “close” line with ??. Use . to settle.
+
+9) Quick recipe (use on any paragraph)
+	1.	Read the text once. Decide where you want two breaths → add ….
+	2.	Split into short lines (3–8 words each).
+	3.	Choose the arc: up (??) or down (.).
+	4.	Mark one impact with —.
+	5.	Mark one peak with !!! (optional, if you need it).
+	6.	Add one vowel stretch on the key emotional word.
+	7.	Add one color token (mm/ah/huh/ha) where the feeling turns.
+	8.	Repeat the same arc shape for 2–3 lines.
+	9.	End with . or ….
+
+10) Extra tokens (body-sound, optional)
+	•	…ahem. = throat clear
+	•	…hic. / hic. = small hiccup
+	•	…burp. = tiny belch
+	•	…sput. = sputter
+	•	…shlorp. = wet lip-suck
+	•	…thud. = solid impact
+	•	…tap. = light step
+	•	…rust. = clothing rustle
+
+11) Fast calibration drill (30–60 seconds)
+	•	Line 1 (grow): 1 cue (…)
+	•	Line 2 (grow): + —
+	•	Line 3 (peak): + !!! (or ALL CAPS, not both)
+	•	Line 4 (release): remove peak cue, end with .
+	•	Line 5 (reset): one … and stop
+
+That’s it. Use the markers in that order, add cues to build, remove cues to land, repeat the shape to lock, and always finish with a clean close.
